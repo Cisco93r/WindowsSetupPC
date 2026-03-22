@@ -1,4 +1,4 @@
-# WindowsBasicSetup
+# Windows Setup PC
  Windows Auto Setup Script
 
 A two-file automation script (`setup.cmd` + `setup.ps1`) for quick Windows configuration after a fresh install. Run it once — it handles everything from registry tweaks and software installation to Windows Update, rebooting and resuming automatically until the system is fully up to date.
